@@ -3,7 +3,7 @@
 `Türkiye Education Data`
 
 <p align="center">
-[ENGLISH]
+[ENGLISH] <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/gb.svg" width="16" height="12">
 </p>
 
 This file is specifically prepared for data visualization, especially with maps. The data in the datasets are obtained from the official websites of government institutions and organizations. The datasets can be combined with Turkey level-1 (provinces) data, which can be freely downloaded from gadm.org, through a variable in these datasets (gadm_L3number), and then data visualization can be performed. An example R command line and the output obtained with this command are provided below.
@@ -75,7 +75,7 @@ Additionally, explanations for each dataset are shared with PDF files. This proj
 
 ****
 <p align="center">
-[TÜRKÇE]
+[TÜRKÇE] <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
 </p>
 
 Bu dosya özellikle harita ile veri görselleştirme yapmak için hazırlanmıştır. Dosyadaki veri setlerindeki veriler resmi kurum ve kuruluşların web sitelerinden elde edilmiştir. Veri setleri, bu veri setlerindeki bir değişken (gadm_L3number) sayesinde gadm.org’dan ücretsiz olarak indirilebilecek level-1 Türkiye (iller) verisi birleştirilebilir, ardından veri görselleştirmesi yapılabilir. Bunun için bir örnek R satır komutu ve bu komut ile elde edilen çıktı aşağıda verilmiştir.
